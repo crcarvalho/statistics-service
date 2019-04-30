@@ -48,7 +48,9 @@ docker run -p 8080:8080 -t statistics-service
 `
 
 ## Swagger
-`
-![alt text](https://github.com/crcarvalho/statistics-service/blob/master/images/Swagger-UI.png "SWAGGER")
 http://localhost:8080/swagger-ui.html
+`
+![alt text](https://github.com/crcarvalho/statistics-service/blob/master/images/Swagger-UI.png)
+
+
 `
